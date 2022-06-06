@@ -14,10 +14,10 @@ I want to realize myself in the profession of a developer. My next goal is to ge
 - CSS
 ## **Code Example:**
 ```
-<style>
+\<style>
   .violet{color:#9400d3;}
-  </style>
-  <p><span class="violet">Внимание!</span> Важная информация</p>
+  </style\>
+  \<p><span class="violet">Внимание!</span> Важная информация</p\>
   ```
 ## **Education:**
 - 2012-2015 Minsk State Automechanical college named after academician M.S. Vysotsky.
